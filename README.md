@@ -23,7 +23,9 @@ This project is an Amazon Clone built using HTML and CSS. It replicates some of 
    ```bash
    git clone <repository_url>
 - Navigate to the project directory.
-   cd Amazon-cloneUsage
+   cd Amazon-clone
+  
+  **Usage**
 - Open the project in your preferred code editor.
 - Open the index.html file in a web browser to view the application.
  
