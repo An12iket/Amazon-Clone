@@ -23,6 +23,7 @@ This project is an Amazon Clone built using HTML and CSS. It replicates some of 
    ```bash
    git clone <repository_url>
 - Navigate to the project directory.
+  
    cd Amazon-clone
   
   **Usage**
