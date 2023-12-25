@@ -35,5 +35,5 @@ This project is an Amazon Clone built using HTML and CSS. It replicates some of 
    4.Push your branch to your fork.
    5.Submit a pull request.
    
-   ##License##
+   **License**
    This project is licensed under the [MIT License - see the LICENSE.md file for details.
