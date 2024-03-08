@@ -8,7 +8,7 @@ This project is an Amazon Clone built using HTML and CSS. It replicates some of 
 
 ## Features
 
--  Product listing, shopping cart, user authentication, etc.
+-  Product listing, shopping cart etc.
 
 ## Technologies Used
 
